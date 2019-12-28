@@ -49,6 +49,8 @@
         "functional": "cpp",
         "iterator": "cpp",
         "mutex": "cpp",
-        "climits": "cpp"
+        "climits": "cpp",
+        "map": "cpp",
+        "shared_mutex": "cpp"
     }
 }
